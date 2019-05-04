@@ -1,0 +1,28 @@
+course_id,course_name,course_code,is_prereq,prof_name,department,term
+1, Introduction to CS I,1411,1, Bhanukiran Gurijala,COMP,FALL19
+2, Introduction to CS II,1412,1, Bhanukiran Gurijala,COMP,FALL19
+3, Data Structures,2313,1, Kemal Aydin,COMP,FALL19
+4, Computer Organization,2316,1, Bhanukiran Gurijala,COMP,FALL19
+5, Systems Programming,2415,0, Bhanukiran Gurijala,COMP,FALL19
+6, Algorithms,3317,0, Bhanukiran Gurijala,COMP,FALL19
+7, Operating Systems,3318,0, Bhanukiran Gurijala,COMP,FALL19
+8, Programming Languages,3320,0, Ihsan Said,COMP,FALL19
+9, Database Systems,3321,1, Ahmet Dogruer,COMP,FALL19
+10, Software Engineering,3322,1, Kemal Aydin,COMP,FALL19
+11, Computer Networks,3324,1, Bingdong Li,COMP,FALL19
+12, Computer & Network Security,3325,0, Khudoyor Ortikov,COMP,FALL19
+13, Web Application Development,3326,1, Ihsan Said,COMP,FALL19
+14, Software Analysis and Design,4339,0, Ihsan Said,COMP,FALL19
+15, Advanced Web Application Development,4342,0, Ihsan Said,COMP,FALL19
+16, Cloud Computing,4331,0, Sean Isik,COMP,FALL19
+17, Network Administration,4351,0, Ibrahim Suslu,COMP,FALL19
+18, Internetworking Technology,4352,0, Khudoyor Ortikov,COMP,FALL19
+19, Data Mining,4353,0, Ahmet Dogruer,COMP,FALL19
+20, Software Project Management,4356,0, Ihsan Said,COMP,FALL19
+21, Wireless Networking,4358,0, Ahmet Dogruer,COMP,FALL19
+22, Senior Design Project,4393,0, Ahmet Dogruer,COMP,FALL19
+23, College Algebra,1311,1, Larry Whittington,MATH,FALL19
+24, Statistics,1312,1, Suat Namli,MATH,FALL19
+25, Pre-Calculus,1313,1, Larry Whittington,MATH,FALL19
+26, Calculus I,2314,1, Larry Whittington,MATH,FALL19
+27, Discrete Mathematics,2317,1, Suat Namli,MATH,FALL19
