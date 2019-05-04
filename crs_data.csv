@@ -1,0 +1,76 @@
+course_id,course_name,course_code,is_prereq,prof_name,department,term,review_id,course_id,student_id,course_dif,course_sat,course_recom,prof_rating,student_grade
+1," Introduction to CS I",1411,1," Bhanukiran Gurijala",COMP,FALL19,1000,1,1,10,9,7,9,9
+2," Introduction to CS II",1412,1," Bhanukiran Gurijala",COMP,FALL19,1001,2,1,10,10,10,7,9
+3," Data Structures",2313,1," Kemal Aydin",COMP,FALL19,1002,3,1,8,7,7,7,9
+4," Computer Organization",2316,1," Bhanukiran Gurijala",COMP,FALL19,1003,4,1,7,7,10,10,9
+5," Systems Programming",2415,0," Bhanukiran Gurijala",COMP,FALL19,1004,5,1,8,7,9,9,9
+6," Algorithms",3317,0," Bhanukiran Gurijala",COMP,FALL19,1005,6,1,7,7,8,10,9
+7," Operating Systems",3318,0," Bhanukiran Gurijala",COMP,FALL19,1006,7,1,8,9,10,9,9
+8," Programming Languages",3320,0," Ihsan Said",COMP,FALL19,1007,8,1,10,8,10,8,9
+9," Database Systems",3321,1," Ahmet Dogruer",COMP,FALL19,1008,9,1,7,8,9,9,9
+10," Software Engineering",3322,1," Kemal Aydin",COMP,FALL19,1009,10,1,10,8,9,8,9
+11," Computer Networks",3324,1," Bingdong Li",COMP,FALL19,1010,11,1,7,10,8,7,9
+12," Computer & Network Security",3325,0," Khudoyor Ortikov",COMP,FALL19,1011,12,1,8,8,9,8,1
+13," Web Application Development",3326,1," Ihsan Said",COMP,FALL19,1012,13,1,10,10,10,10,9
+14," Software Analysis and Design",4339,0," Ihsan Said",COMP,FALL19,1013,14,1,10,8,9,9,9
+15," Advanced Web Application Development",4342,0," Ihsan Said",COMP,FALL19,1014,15,1,10,7,7,7,9
+1," Introduction to CS I",1411,1," Bhanukiran Gurijala",COMP,FALL19,1015,1,2,9,10,10,10,9
+2," Introduction to CS II",1412,1," Bhanukiran Gurijala",COMP,FALL19,1016,2,2,9,9,7,7,9
+3," Data Structures",2313,1," Kemal Aydin",COMP,FALL19,1017,3,2,8,9,8,8,9
+4," Computer Organization",2316,1," Bhanukiran Gurijala",COMP,FALL19,1018,4,2,9,7,10,10,9
+5," Systems Programming",2415,0," Bhanukiran Gurijala",COMP,FALL19,1019,5,2,8,7,7,7,9
+6," Algorithms",3317,0," Bhanukiran Gurijala",COMP,FALL19,1020,6,2,9,9,8,8,9
+7," Operating Systems",3318,0," Bhanukiran Gurijala",COMP,FALL19,1021,7,2,7,7,7,9,9
+8," Programming Languages",3320,0," Ihsan Said",COMP,FALL19,1022,8,2,9,10,10,8,9
+9," Database Systems",3321,1," Ahmet Dogruer",COMP,FALL19,1023,9,2,7,10,7,9,9
+10," Software Engineering",3322,1," Kemal Aydin",COMP,FALL19,1024,10,2,10,9,10,8,9
+11," Computer Networks",3324,1," Bingdong Li",COMP,FALL19,1025,11,2,7,7,7,8,9
+12," Computer & Network Security",3325,0," Khudoyor Ortikov",COMP,FALL19,1026,12,2,9,9,8,9,9
+13," Web Application Development",3326,1," Ihsan Said",COMP,FALL19,1027,13,2,9,8,8,9,9
+14," Software Analysis and Design",4339,0," Ihsan Said",COMP,FALL19,1028,14,2,8,7,8,7,9
+15," Advanced Web Application Development",4342,0," Ihsan Said",COMP,FALL19,1029,15,2,10,9,10,10,9
+1," Introduction to CS I",1411,1," Bhanukiran Gurijala",COMP,FALL19,1030,1,3,6,5,6,6,8
+2," Introduction to CS II",1412,1," Bhanukiran Gurijala",COMP,FALL19,1031,2,3,5,6,8,5,8
+3," Data Structures",2313,1," Kemal Aydin",COMP,FALL19,1032,3,3,7,6,8,8,8
+4," Computer Organization",2316,1," Bhanukiran Gurijala",COMP,FALL19,1033,4,3,5,6,6,8,8
+5," Systems Programming",2415,0," Bhanukiran Gurijala",COMP,FALL19,1034,5,3,5,7,6,6,7
+6," Algorithms",3317,0," Bhanukiran Gurijala",COMP,FALL19,1035,6,3,6,6,6,7,8
+7," Operating Systems",3318,0," Bhanukiran Gurijala",COMP,FALL19,1036,7,3,8,5,7,8,8
+8," Programming Languages",3320,0," Ihsan Said",COMP,FALL19,1037,8,3,8,5,7,8,8
+9," Database Systems",3321,1," Ahmet Dogruer",COMP,FALL19,1038,9,3,5,7,7,6,7
+10," Software Engineering",3322,1," Kemal Aydin",COMP,FALL19,1039,10,3,6,5,8,8,8
+11," Computer Networks",3324,1," Bingdong Li",COMP,FALL19,1040,11,3,5,5,8,6,8
+12," Computer & Network Security",3325,0," Khudoyor Ortikov",COMP,FALL19,1041,12,3,7,6,8,6,8
+13," Web Application Development",3326,1," Ihsan Said",COMP,FALL19,1042,13,3,5,6,7,8,7
+14," Software Analysis and Design",4339,0," Ihsan Said",COMP,FALL19,1043,14,3,8,5,8,7,8
+15," Advanced Web Application Development",4342,0," Ihsan Said",COMP,FALL19,1044,15,3,7,6,5,6,7
+1," Introduction to CS I",1411,1," Bhanukiran Gurijala",COMP,FALL19,1045,1,4,7,7,6,5,8
+2," Introduction to CS II",1412,1," Bhanukiran Gurijala",COMP,FALL19,1046,2,4,8,6,5,5,7
+3," Data Structures",2313,1," Kemal Aydin",COMP,FALL19,1047,3,4,5,7,8,5,7
+4," Computer Organization",2316,1," Bhanukiran Gurijala",COMP,FALL19,1048,4,4,7,6,5,6,7
+5," Systems Programming",2415,0," Bhanukiran Gurijala",COMP,FALL19,1049,5,4,7,8,7,5,8
+6," Algorithms",3317,0," Bhanukiran Gurijala",COMP,FALL19,1050,6,4,5,6,7,8,8
+7," Operating Systems",3318,0," Bhanukiran Gurijala",COMP,FALL19,1051,7,4,7,5,6,7,7
+8," Programming Languages",3320,0," Ihsan Said",COMP,FALL19,1052,8,4,9,8,8,5,8
+9," Database Systems",3321,1," Ahmet Dogruer",COMP,FALL19,1053,9,4,5,6,3,4,8
+10," Software Engineering",3322,1," Kemal Aydin",COMP,FALL19,1054,10,4,8,5,7,7,7
+11," Computer Networks",3324,1," Bingdong Li",COMP,FALL19,1055,11,4,6,3,3,3,8
+12," Computer & Network Security",3325,0," Khudoyor Ortikov",COMP,FALL19,1056,12,4,6,6,7,5,8
+13," Web Application Development",3326,1," Ihsan Said",COMP,FALL19,1057,13,4,5,8,8,5,8
+14," Software Analysis and Design",4339,0," Ihsan Said",COMP,FALL19,1058,14,4,9,8,3,5,7
+15," Advanced Web Application Development",4342,0," Ihsan Said",COMP,FALL19,1059,15,4,4,5,4,8,8
+1," Introduction to CS I",1411,1," Bhanukiran Gurijala",COMP,FALL19,1060,1,5,5,6,5,9,9
+2," Introduction to CS II",1412,1," Bhanukiran Gurijala",COMP,FALL19,1061,2,5,7,7,8,6,9
+3," Data Structures",2313,1," Kemal Aydin",COMP,FALL19,1062,3,5,5,5,7,6,9
+4," Computer Organization",2316,1," Bhanukiran Gurijala",COMP,FALL19,1063,4,5,4,9,7,3,7
+5," Systems Programming",2415,0," Bhanukiran Gurijala",COMP,FALL19,1064,5,5,5,9,8,8,9
+6," Algorithms",3317,0," Bhanukiran Gurijala",COMP,FALL19,1065,6,5,8,3,8,4,9
+7," Operating Systems",3318,0," Bhanukiran Gurijala",COMP,FALL19,1066,7,5,3,8,6,6,9
+8," Programming Languages",3320,0," Ihsan Said",COMP,FALL19,1067,8,5,9,3,5,3,7
+9," Database Systems",3321,1," Ahmet Dogruer",COMP,FALL19,1068,9,5,5,5,6,3,7
+10," Software Engineering",3322,1," Kemal Aydin",COMP,FALL19,1069,10,5,3,4,6,4,8
+11," Computer Networks",3324,1," Bingdong Li",COMP,FALL19,1070,11,5,7,3,5,7,7
+12," Computer & Network Security",3325,0," Khudoyor Ortikov",COMP,FALL19,1071,12,5,3,5,3,3,7
+13," Web Application Development",3326,1," Ihsan Said",COMP,FALL19,1072,13,5,9,5,6,3,7
+14," Software Analysis and Design",4339,0," Ihsan Said",COMP,FALL19,1073,14,5,6,9,4,8,7
+15," Advanced Web Application Development",4342,0," Ihsan Said",COMP,FALL19,1074,15,5,4,5,4,5,7
